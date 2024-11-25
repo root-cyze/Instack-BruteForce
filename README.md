@@ -6,7 +6,8 @@ Hello, the most important rule you need to know when using this software is that
 
 ## Description
 
-This project is a Python-based brute force tool designed to work with Instagram's API. The tool works by sending requests and is compatible with mobile devices. Users must have their own proxy service to use this tool effectively. Additionally, users can attempt to crack passwords using wordlists.
+This project is a Python-based brute force tool designed to work wit![Screenshot_2024-11-25-23-33-06-763_com termux-edit~2](https://github.com/user-attachments/assets/ad0174dd-5a34-4112-a4ba-444d2226d65e)
+h Instagram's API. The tool works by sending requests and is compatible with mobile devices. Users must have their own proxy service to use this tool effectively. Additionally, users can attempt to crack passwords using wordlists.
 
 ## Features
 
