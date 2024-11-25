@@ -1,5 +1,9 @@
 # Megathronic Instagram Checker
 
+## Very Important 
+
+Hello, the most important rule you need to know when using this software is that logging into the target account with this software without using a proxy or tor address will ban your ip address. The recommended use is to configure the target's country in the torrc file and then start the tor proxy and use this software. If you use this software from the same ip address all the time, you will not benefit.
+
 ## Description
 
 This project is a Python-based brute force tool designed to work with Instagram's API. The tool works by sending requests and is compatible with mobile devices. Users must have their own proxy service to use this tool effectively. Additionally, users can attempt to crack passwords using wordlists.
