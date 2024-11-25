@@ -1,4 +1,4 @@
-# Instagram Brute Force Tool
+# Megathronic Instagram Checker
 
 ## Description
 
