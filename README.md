@@ -51,6 +51,10 @@ pip install instaloader
 2. Run the script:
 
 ```
+cd Megathronic-Instagram-Checker
+```
+
+```
 python megathronic.py
 ```
 
