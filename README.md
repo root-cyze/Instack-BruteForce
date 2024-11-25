@@ -8,9 +8,9 @@
 
 - **Logging into the target account** without using a proxy or tor address will result in your **IP address being banned**.
 - **Recommended usage**: 
-  1. Configure the target's country in the `torrc` file.
-  2. Start the Tor proxy.
-  3. Use this software while connected through Tor.
+Configure the target's country in the `torrc` file.
+Start the Tor proxy.
+Use this software while connected through Tor.
 - **Note**: Using this software from the same IP address repeatedly will not be beneficial.
 
 ## Description
