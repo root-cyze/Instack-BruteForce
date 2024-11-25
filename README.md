@@ -18,7 +18,6 @@ This project is a Python-based brute force tool designed to work with Instagram'
 - Easy to use and install.
 ## Vısual 
 
-![IMG_20241117_230528](https://github.com/user-attachments/assets/648ab16f-65a6-49bf-a9ab-75c130102947)
 ![Screenshot_2024-11-25-23-33-06-763_com termux-edit~2](https://github.com/user-attachments/assets/20f015d0-0d24-4bd8-8f74-00ee0da471a5)
 
 
