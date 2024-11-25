@@ -67,6 +67,4 @@ python megathronic.py
 
 ## Contribution
 
-Feel free to contribute to the project by submitting issues or pull requests. All contributions are welcome!   
-
-For communication, you can send feedback to my Instagram account named **@yusuf.cyw**
+**It is unethical and prohibited to share this software, which is patented by me, without my permission.**
