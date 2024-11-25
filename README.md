@@ -1,5 +1,9 @@
 # Megathronic Instagram Checker
 
+## Vısual 
+
+![Screenshot_2024-11-25-23-33-06-763_com termux-edit~2](https://github.com/user-attachments/assets/20f015d0-0d24-4bd8-8f74-00ee0da471a5)
+
 ## Very Important 
 
 Hello, the most important rule you need to know when using this software is that logging into the target account with this software without using a proxy or tor address will ban your ip address. The recommended use is to configure the target's country in the torrc file and then start the tor proxy and use this software. If you use this software from the same ip address all the time, you will not benefit.
@@ -16,10 +20,6 @@ This project is a Python-based brute force tool designed to work with Instagram'
 - Allows users to attempt to crack passwords using wordlists.
 
 - Easy to use and install.
-## Vısual 
-
-![Screenshot_2024-11-25-23-33-06-763_com termux-edit~2](https://github.com/user-attachments/assets/20f015d0-0d24-4bd8-8f74-00ee0da471a5)
-
 
 ## Installation
 
