@@ -4,9 +4,14 @@
 
 ![Screenshot_2024-11-25-23-33-06-763_com termux-edit~2](https://github.com/user-attachments/assets/20f015d0-0d24-4bd8-8f74-00ee0da471a5)
 
-## Very Important 
+## Very Important
 
-Hello, the most important rule you need to know when using this software is that logging into the target account with this software without using a proxy or tor address will ban your ip address. The recommended use is to configure the target's country in the torrc file and then start the tor proxy and use this software. If you use this software from the same ip address all the time, you will not benefit.
+- **Logging into the target account** without using a proxy or tor address will result in your **IP address being banned**.
+- **Recommended usage**: 
+  1. Configure the target's country in the `torrc` file.
+  2. Start the Tor proxy.
+  3. Use this software while connected through Tor.
+- **Note**: Using this software from the same IP address repeatedly will not be beneficial.
 
 ## Description
 
