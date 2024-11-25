@@ -51,7 +51,7 @@ pip install instaloader
 2. Run the script:
 
 ```
-python main.py
+python megathronic.py
 ```
 
 3. Monitor the output for progress and results as the tool attempts to crack the password.
