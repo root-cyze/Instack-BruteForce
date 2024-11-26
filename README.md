@@ -60,15 +60,6 @@ python megathronic.py
 
 3. Monitor the output for progress and results as the tool attempts to crack the password.
 
-## Important Notes
-
-- **Proxy Requirement**: Users must have their own proxy service. The tool will not work without a valid proxy.
-
-- **Wordlist Usage**: Users can specify a wordlist to attempt to crack the password. Make sure your wordlist is formatted correctly for best performance.
-
-- **Ethical Considerations**: Use this tool responsibly and only on accounts you own or have explicit permission to test. Unauthorized access to accounts is illegal and unethical.
-- **API Rate Limits**: Use a good proxy service to avoid temporary access suspensions. You will need this to bypass API rate limits.
-
-## Contribution
+## Lıcense
 
 **It is unethical and prohibited to share this software, which is patented by me, without my permission.**
