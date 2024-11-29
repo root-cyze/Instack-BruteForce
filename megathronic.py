@@ -2,9 +2,18 @@ import instaloader
 from instaloader.exceptions import BadCredentialsException, ConnectionException, TwoFactorAuthRequiredException
 import argparse
 import os
+import platform 
 import sys
 
-os.system('clear')
+# İşletim sistemine göre temizleme komutunu belirle
+def clear_screen():
+    if platform.system() == "Windows":
+        os.system("cls")  # Windows için
+    else:
+        os.system("clear")  # Unix/Linux/MacOS için
+
+# Ekranı temizle
+clear_screen()
 
 # Renk kodları
 GREEN = '\033[92m'  # Doğru parola ile giriş yapıldığında yeşil renk
