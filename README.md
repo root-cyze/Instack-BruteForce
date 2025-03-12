@@ -2,15 +2,12 @@
 
 ## Vısual 
 
+![Uploading IMG_20250313_001849.jpg…]()
+
 
 ## Very Important
 
 - **Logging into the target account** without using a proxy or tor address will result in your **IP address being banned**.
-- **Recommended usage**: 
-Configure the target's country in the `torrc` file.
-Start the Tor proxy.
-Use this software while connected through Tor.
-- **Note**: Using this software from the same IP address repeatedly will not be beneficial.
 
 ## Description
 
@@ -30,7 +27,7 @@ This project is a Python-based brute force tool designed to work with Instagram'
 1. Clone the repository:
 
 ```
-git clone https://github.com/cyze-afresh/megathronic-instagram-checker/
+git clone https://github.com/root-cyze/megathronic-instagram-checker/
 ```
 
 2. Install the requires:
@@ -54,7 +51,7 @@ cd megathronic-instagram-checker
 ```
 
 ```
-python megathronic.py
+python root.py
 ```
 
 3. Monitor the output for progress and results as the tool attempts to crack the password.
