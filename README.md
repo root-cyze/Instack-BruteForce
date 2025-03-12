@@ -2,7 +2,6 @@
 
 ## Vısual 
 
-![Screenshot_2024-11-25-23-33-06-763_com termux-edit~2](https://github.com/user-attachments/assets/20f015d0-0d24-4bd8-8f74-00ee0da471a5)
 
 ## Very Important
 
