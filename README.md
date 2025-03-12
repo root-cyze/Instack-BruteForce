@@ -2,7 +2,7 @@
 
 ## Vısual 
 
-![Uploading IMG_20250313_001849.jpg…]()
+![IMG_20250313_001849](https://github.com/user-attachments/assets/647bfa5b-d4fc-41c6-8b20-e425830c83c5)
 
 
 ## Very Important
