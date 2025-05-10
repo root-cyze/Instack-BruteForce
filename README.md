@@ -1,6 +1,6 @@
 # Megathronic Instagram Checker
 
-![IMG_20250510_220638](https://github.com/user-attachments/assets/5857b59c-32f5-4222-a133-c6840e7c7256)
+![IMG_20250510_221228](https://github.com/user-attachments/assets/24f306aa-db3e-4eed-87f3-cea84968268d)
 
 
 
