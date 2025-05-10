@@ -26,7 +26,7 @@
 
 ## Installation
 
-### 1. Clone the repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/root-cyze/Instack-InstagramBruteForce
