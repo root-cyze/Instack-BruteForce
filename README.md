@@ -50,7 +50,7 @@ You must use a proxy to avoid IP bans. Edit your configuration (or the script) t
 
 ---
 
-#Usage
+# Usage
 
 1. Prepare your environment:
 
@@ -77,7 +77,7 @@ python instagram_checker.py
 
 ---
 
-File Structure
+# File Structure
 
 .
 ├── instagram_checker.py   # Main brute force script
@@ -87,7 +87,7 @@ File Structure
 
 ---
 
-#License & Legal
+# License & Legal
 
 This tool is for educational and authorized testing purposes only.
 Do not use it against accounts you do not own or have permission to test.
