@@ -2,7 +2,7 @@
 
 ![Instack Banner](https://github.com/user-attachments/assets/24f306aa-db3e-4eed-87f3-cea84968268d)
 
-## VERY IMPORTANT
+## Very Important
 
 > **Using this tool without a proxy or TOR address may result in your IP address being banned by Instagram. Always route your traffic through a secure proxy.**
 
