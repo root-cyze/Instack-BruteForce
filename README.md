@@ -1,9 +1,6 @@
 # Megathronic Instagram Checker
 
-## Vısual 
-
-![Uploading IMG_20250510_220638.jpg…]()
-
+![IMG_20250510_220638](https://github.com/user-attachments/assets/c96660e2-50bc-47f0-b837-0ecfd9dbd1fb)
 
 
 ## Very Important
