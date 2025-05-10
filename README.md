@@ -1,60 +1,96 @@
-# Instack Image
+# Instack - Instagram Brute Force Tool
 
-![IMG_20250510_221228](https://github.com/user-attachments/assets/24f306aa-db3e-4eed-87f3-cea84968268d)
+![Instack Banner](https://github.com/user-attachments/assets/24f306aa-db3e-4eed-87f3-cea84968268d)
 
+## VERY IMPORTANT
 
+> **Using this tool without a proxy or TOR address may result in your IP address being banned by Instagram. Always route your traffic through a secure proxy.**
 
-## Very Important
-
-- **Logging into the target account** without using a proxy or tor address will result in your **IP address being banned**.
+---
 
 ## Description
 
-This project is a Python-based brute force tool designed to work with Instagram's API. The tool works by sending requests and is compatible with mobile devices. Users must have their own proxy service to use this tool effectively. Additionally, users can attempt to crack passwords using wordlists.
+**Instack** is a Python-based brute force utility designed to interact with Instagram's API to test login credentials using wordlists. It is lightweight, mobile-friendly, and ideal for ethical testing and educational use only. The tool supports proxy integration to bypass rate-limiting and IP bans.
+
+---
 
 ## Features
 
-- Works with Instagram's API for brute force attacks.
-- Compatible with mobile devices.
-- Requires users to have their own proxy service.
-- Allows users to attempt to crack passwords using wordlists.
+- Works with Instagram's login flow.
+- Mobile-friendly design.
+- Proxy support for secure and anonymous operation.
+- Supports wordlist-based brute force attempts.
+- Minimal and intuitive terminal interface.
 
-- Easy to use and install.
+---
 
 ## Installation
 
-1. Clone the repository:
+### 1. Clone the repository
 
-```
-git clone https://github.com/root-cyze/megathronic-instagram-checker/
-```
-
-2. Install the requires:
-
-```
-pip install instaloader
+```bash
+git clone https://github.com/root-cyze/Instack-InstagramBruteForce
+cd Instack-InstagramBruteForce
 ```
 
-3. Install the proxy service.  Make sure you have a valid proxy server to route your requests through.
-
-## Usage
-
-1. Configure the tool:
-- Edit the configuration file to include your proxy details.
-- Enter the target username and the wordlist you want to use for password attempts.
-
-2. Run the script:
+2. Install required libraries
 
 ```
-cd megathronic-instagram-checker
+pip install -r requirements.txt
 ```
 
+> Make sure your Python version is 3.8 or above.
+
+
+
+3. Setup your proxy
+
+You must use a proxy to avoid IP bans. Edit your configuration (or the script) to include your proxy IP and port.
+
+
+---
+
+#Usage
+
+1. Prepare your environment:
+
+Add your proxy configuration.
+
+Provide the target Instagram username.
+
+Add your password wordlist (.txt).
+
+
+
+#2. Run the tool:
+
+
+
 ```
-python root.py
+python instagram_checker.py
 ```
 
-3. Monitor the output for progress and results as the tool attempts to crack the password.
+3. Monitor output to view login attempts and status.
 
-## Lıcense
 
-**It is unethical and prohibited to share this software, which is patented by me, without my permission.**
+
+
+---
+
+File Structure
+
+.
+├── instagram_checker.py   # Main brute force script
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
+
+
+---
+
+#License & Legal
+
+This tool is for educational and authorized testing purposes only.
+Do not use it against accounts you do not own or have permission to test.
+Violating Instagram's Terms of Service can result in account termination or legal action.
+
+Unauthorized redistribution of this tool is strictly prohibited. All rights reserved to Cyze.
