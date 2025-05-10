@@ -62,7 +62,7 @@ Add your password wordlist (.txt).
 
 
 
-#2. Run the tool:
+2. Run the tool:
 
 
 
