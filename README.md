@@ -79,11 +79,9 @@ python instagram_checker.py
 
 # File Structure
 
-.
-├── instagram_checker.py   # Main brute force script
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
-
+├── instagram_checker.py   
+├── requirements.txt       
+└── README.md              
 
 ---
 
