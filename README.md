@@ -29,8 +29,8 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/root-cyze/Instack-InstagramBruteForce
-cd Instack-InstagramBruteForce
+git clone https://github.com/root-cyze/Instack-BruteForce
+cd Instack-BruteForce
 ```
 
 2. Install required libraries
